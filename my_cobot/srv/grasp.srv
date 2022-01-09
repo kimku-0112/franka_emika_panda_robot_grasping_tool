@@ -1,0 +1,8 @@
+bool release
+bool move
+bool homing
+int32 power
+float32 grasp_width
+float32 speed
+---
+bool success

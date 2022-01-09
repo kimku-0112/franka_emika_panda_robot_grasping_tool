@@ -1,0 +1,6 @@
+bool flag
+---
+int64 x
+int64 y
+float64 angle
+int64 object

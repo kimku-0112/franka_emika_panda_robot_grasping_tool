@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/dogeol/catkin_ws/devel/include/**",
+        "/home/dogeol/panda_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/dogeol/panda_ws/src/franka_ros/franka_control/include/**",
+        "/home/dogeol/panda_ws/src/franka_ros/franka_example_controllers/include/**",
+        "/home/dogeol/panda_ws/src/franka_ros/franka_gazebo/include/**",
+        "/home/dogeol/panda_ws/src/franka_ros/franka_gripper/include/**",
+        "/home/dogeol/panda_ws/src/franka_ros/franka_hw/include/**",
+        "/home/dogeol/panda_ws/src/panda_controller/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
